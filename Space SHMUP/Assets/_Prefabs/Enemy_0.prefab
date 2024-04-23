@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 3434831124644902737}
   - component: {fileID: 171888882535094498}
   - component: {fileID: 2233226202334762388}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Enemy_0
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -79,7 +79,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2780721cebea754a8f5052d826c8f04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  radius: 1
+  radius: -2.5
   keepOnScreen: 0
   isOnScreen: 1
   camWidth: 0
@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 8726688842525979154}
   - component: {fileID: 8726688842525979149}
   - component: {fileID: 8726688842525979148}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Wing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -191,7 +191,7 @@ GameObject:
   - component: {fileID: 8726688843866640292}
   - component: {fileID: 8726688843866640295}
   - component: {fileID: 8726688843866640294}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cockpit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
